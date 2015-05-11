@@ -1,0 +1,1 @@
+{:foreign-libs [{:file-min "cljsjs/production/leaflet.min.inc.js", :file "cljsjs/development/leaflet.inc.js", :provides ["cljsjs.leaflet"]}], :externs ["cljsjs/common/leaflet.ext.js"]}
