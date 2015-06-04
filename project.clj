@@ -1,4 +1,4 @@
-(defproject prabhasp/leaflet-cljs "0.7.3-SNAPSHOT"
+(defproject prabhasp/leaflet-cljs "0.7.3"
  :description "osmtogeojson"
   :url "https://leafletjs.com"
    :license {:name "Eclipse Public License"
