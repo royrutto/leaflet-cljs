@@ -19,6 +19,7 @@ L.Map.prototype.setView = function(a, b){};
 L.Map.prototype.getBounds = function(a, b){};
 L.Map.prototype.fitBounds = function(a, b){};
 L.Map.prototype.invalidateSize = function(a, b){};
+L.Map.prototype.getZoom = function(a, b){};
 
 /** @constructor */
 L.LatLng = function(a, b) {};
@@ -73,6 +74,7 @@ L.geoJson = function(a,b) {}
 /** @constructor */
 L.FeatureLayer = function(o) {}
 L.FeatureLayer.prototype.getBounds = function() {};
+L.FeatureLayer.prototype.getZoom = function() {};
 
 /** @namespace */
 L.control = {};
