@@ -19,7 +19,7 @@ L.Map.prototype.setView = function(a, b){};
 L.Map.prototype.getBounds = function(a, b){};
 L.Map.prototype.fitBounds = function(a, b){};
 L.Map.prototype.invalidateSize = function(a, b){};
-L.Map.prototype.getZoom = function(){};
+L.Map.prototype.getZoom = function(a, b){};
 
 /** @constructor */
 L.LatLng = function(a, b) {};
